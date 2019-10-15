@@ -43,17 +43,17 @@ module.exports = function (ctx) {
       all: 'auto',
 
       components: [
-        'QFooter',
-        'QTabs',
-        'QTab',
-        'QRouteTab',
-        'QList',
-        'QItem',
-        'QItemSection',
-        'QItemLabel',
-        'QCheckbox',
-        'QBtn',
-        'QDialog'
+        // 'QFooter',
+        // 'QTabs',
+        // 'QTab',
+        // 'QRouteTab',
+        // 'QList',
+        // 'QItem',
+        // 'QItemSection',
+        // 'QItemLabel',
+        // 'QCheckbox',
+        // 'QBtn',
+        // 'QDialog'
       ],
       directives: [
         'ClosePopup',
